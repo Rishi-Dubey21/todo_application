@@ -8,4 +8,5 @@ For running the backend:
 Go-to frontend folder
 Run:
 npm install
+then
 npm run dev
